@@ -6,4 +6,4 @@ An example of the target velocity maps, fitted models, and residuals are shown b
 
 <img src="https://github.com/hsshih/Fit_Cone_Disk_SNIFS/blob/main/Model_Fit_Example.png" class="center" width="400" height="550" />
 
-The full results are published in the Astrophysical Journal on 2014 May 1. 
+The full results are published in The Astrophysical Journal on 2014 May 1. 
